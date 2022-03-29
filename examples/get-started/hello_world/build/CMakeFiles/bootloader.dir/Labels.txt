@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/CMakeFiles/bootloader
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/CMakeFiles/bootloader.rule
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Vincent/Desktop/esp-idf/examples/get-started/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
